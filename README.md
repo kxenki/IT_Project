@@ -33,5 +33,5 @@
 [Тут будет ссылка на лендинг](https://github.com/kxenki/IT_Project)
 
 ### Дополнительные материалы по проекту (пользовательская и техническая документация):
-[Тут будет ссылка на Doogle-Диск](https://github.com/kxenki/IT_Project)
+[Тут будет ссылка на Google-Диск](https://github.com/kxenki/IT_Project)
 
