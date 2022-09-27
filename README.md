@@ -19,6 +19,10 @@
 
 Помазан Наталья ИДМ-22-01
 
+
+Распределение ролей показано в данной Google-таблице:
+[Кондуит ИДМ-22](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit?usp=sharing)
+
 ### Задачи по проекту:
 1. Выбрать роли в команде.
 
