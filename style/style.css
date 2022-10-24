@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter, "Century Gothic";
+}
+
+.topMenu {     
+    width: auto;
+    height: 80px;
+    background: #fff;
+    box-shadow: 0 1px 4px rgb(92 133 150 / 25%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.siteLogo {
+    height: 80px;
+    width: 130px;
+}
+
+.centerMenu {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    gap: 3.5rem;
+    font-family: "Century Gothic";
+}
+
+.card-img-top {
+    height: 200px;
+    width: 150px;
+}
+
+.card-title {
+    font-weight: 750;
+}
+
+.card-text {
+    color: gray;
+    font-family: "Century Gothic";
+    font-size: 15px;
+}
+
+.foo {
+    display: flex;
+    justify-content: center;
+}
+
+.butt {
+    display: flex;
+    gap: 1rem;
+}
+
+.ooon {
+    color: black;
+}
+
+.line {
+    margin-top: 50px;
+}
+
+.topMenu1 {     
+    width: auto;
+    height: 80px;
+    background: #fff;
+    box-shadow: 0 1px 4px rgb(92 133 150 / 25%);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.progName {
+    position: absolute;
+    left: 45%;
+}
+
+ .accordion{
+    margin: 50px;
+} 
+
+.accordion-body3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.img123 {
+    margin-top: 30px;
+    height: 500px;
+    width: 600px;
+}
+
+.sccc {
+    width: 600px;
+    height: 600px;
+}
+
+
+
+
+
+
